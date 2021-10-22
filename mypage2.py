@@ -41,5 +41,5 @@ def add_new_product():
 
 
 # launch the develoment server
-if __name__ == '__main__':
-    app.run(port=4002)
+# if __name__ == '__main__':
+#     app.run(port=4002)
